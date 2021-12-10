@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eddychn
+- 👋 Hi, I’m Aditya Chauhan
 - 👀 I’m interested in learning about the various fields in computer science
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects related to blockchain and website development
