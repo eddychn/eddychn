@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Chauhan
-- 👀 I’m interested in learning about the various fields in computer science
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in learning about the various fields in Information Technology
+- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on projects related to blockchain and website development
 - 📫 Reach me at my mail: adtchauhan123@gmail.com
 
